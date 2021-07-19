@@ -128,7 +128,7 @@ export const Demo = () => {
     let formData = new FormData();
     formData.append("image", UploadedImage);
 
-    fetch("/api/calbot/predict", {
+    fetch("https://arabic-caligraphy-classifier.herokuapp.com/api/calbot/predict", {
       method: "POST",
       body: formData,
     })
