@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/Arabic-Font-Detector-Website/static/css/main.521f23c5.chunk.css",
-    "main.js": "/Arabic-Font-Detector-Website/static/js/main.476380e1.chunk.js",
-    "main.js.map": "/Arabic-Font-Detector-Website/static/js/main.476380e1.chunk.js.map",
+    "main.css": "/Arabic-Font-Detector-Website/static/css/main.0e0b3f96.chunk.css",
+    "main.js": "/Arabic-Font-Detector-Website/static/js/main.86e66e7a.chunk.js",
+    "main.js.map": "/Arabic-Font-Detector-Website/static/js/main.86e66e7a.chunk.js.map",
     "runtime-main.js": "/Arabic-Font-Detector-Website/static/js/runtime-main.a51c13bb.js",
     "runtime-main.js.map": "/Arabic-Font-Detector-Website/static/js/runtime-main.a51c13bb.js.map",
-    "static/js/2.ecc1a02c.chunk.js": "/Arabic-Font-Detector-Website/static/js/2.ecc1a02c.chunk.js",
-    "static/js/2.ecc1a02c.chunk.js.map": "/Arabic-Font-Detector-Website/static/js/2.ecc1a02c.chunk.js.map",
+    "static/js/2.6d0e2091.chunk.js": "/Arabic-Font-Detector-Website/static/js/2.6d0e2091.chunk.js",
+    "static/js/2.6d0e2091.chunk.js.map": "/Arabic-Font-Detector-Website/static/js/2.6d0e2091.chunk.js.map",
     "index.html": "/Arabic-Font-Detector-Website/index.html",
-    "static/css/main.521f23c5.chunk.css.map": "/Arabic-Font-Detector-Website/static/css/main.521f23c5.chunk.css.map",
-    "static/js/2.ecc1a02c.chunk.js.LICENSE.txt": "/Arabic-Font-Detector-Website/static/js/2.ecc1a02c.chunk.js.LICENSE.txt",
+    "static/css/main.0e0b3f96.chunk.css.map": "/Arabic-Font-Detector-Website/static/css/main.0e0b3f96.chunk.css.map",
+    "static/js/2.6d0e2091.chunk.js.LICENSE.txt": "/Arabic-Font-Detector-Website/static/js/2.6d0e2091.chunk.js.LICENSE.txt",
     "static/media/nask.4cb9fc66.png": "/Arabic-Font-Detector-Website/static/media/nask.4cb9fc66.png",
+    "static/media/nask2.2daaa54f.png": "/Arabic-Font-Detector-Website/static/media/nask2.2daaa54f.png",
     "static/media/nask3.15cdabc3.png": "/Arabic-Font-Detector-Website/static/media/nask3.15cdabc3.png",
-    "static/media/results.7455923b.png": "/Arabic-Font-Detector-Website/static/media/results.7455923b.png",
+    "static/media/results.184f1e60.png": "/Arabic-Font-Detector-Website/static/media/results.184f1e60.png",
     "static/media/ruqa.f34d6854.png": "/Arabic-Font-Detector-Website/static/media/ruqa.f34d6854.png",
     "static/media/ruqa2.f03a3c22.png": "/Arabic-Font-Detector-Website/static/media/ruqa2.f03a3c22.png",
-    "static/media/ruqa3.090df105.jpg": "/Arabic-Font-Detector-Website/static/media/ruqa3.090df105.jpg"
+    "static/media/ruqa3.090df105.jpg": "/Arabic-Font-Detector-Website/static/media/ruqa3.090df105.jpg",
+    "static/media/test.8c0a4671.png": "/Arabic-Font-Detector-Website/static/media/test.8c0a4671.png",
+    "static/media/train.031989d0.png": "/Arabic-Font-Detector-Website/static/media/train.031989d0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a51c13bb.js",
-    "static/js/2.ecc1a02c.chunk.js",
-    "static/css/main.521f23c5.chunk.css",
-    "static/js/main.476380e1.chunk.js"
+    "static/js/2.6d0e2091.chunk.js",
+    "static/css/main.0e0b3f96.chunk.css",
+    "static/js/main.86e66e7a.chunk.js"
   ]
 }
