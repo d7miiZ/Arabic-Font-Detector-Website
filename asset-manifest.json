@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Arabic-Font-Detector-Website/static/css/main.0e0b3f96.chunk.css",
-    "main.js": "/Arabic-Font-Detector-Website/static/js/main.e83f1c26.chunk.js",
-    "main.js.map": "/Arabic-Font-Detector-Website/static/js/main.e83f1c26.chunk.js.map",
+    "main.css": "/Arabic-Font-Detector-Website/static/css/main.5965d928.chunk.css",
+    "main.js": "/Arabic-Font-Detector-Website/static/js/main.60bc2684.chunk.js",
+    "main.js.map": "/Arabic-Font-Detector-Website/static/js/main.60bc2684.chunk.js.map",
     "runtime-main.js": "/Arabic-Font-Detector-Website/static/js/runtime-main.a51c13bb.js",
     "runtime-main.js.map": "/Arabic-Font-Detector-Website/static/js/runtime-main.a51c13bb.js.map",
-    "static/js/2.6d0e2091.chunk.js": "/Arabic-Font-Detector-Website/static/js/2.6d0e2091.chunk.js",
-    "static/js/2.6d0e2091.chunk.js.map": "/Arabic-Font-Detector-Website/static/js/2.6d0e2091.chunk.js.map",
+    "static/js/2.96a23b70.chunk.js": "/Arabic-Font-Detector-Website/static/js/2.96a23b70.chunk.js",
+    "static/js/2.96a23b70.chunk.js.map": "/Arabic-Font-Detector-Website/static/js/2.96a23b70.chunk.js.map",
     "index.html": "/Arabic-Font-Detector-Website/index.html",
-    "static/css/main.0e0b3f96.chunk.css.map": "/Arabic-Font-Detector-Website/static/css/main.0e0b3f96.chunk.css.map",
-    "static/js/2.6d0e2091.chunk.js.LICENSE.txt": "/Arabic-Font-Detector-Website/static/js/2.6d0e2091.chunk.js.LICENSE.txt",
+    "static/css/main.5965d928.chunk.css.map": "/Arabic-Font-Detector-Website/static/css/main.5965d928.chunk.css.map",
+    "static/js/2.96a23b70.chunk.js.LICENSE.txt": "/Arabic-Font-Detector-Website/static/js/2.96a23b70.chunk.js.LICENSE.txt",
     "static/media/nask.4cb9fc66.png": "/Arabic-Font-Detector-Website/static/media/nask.4cb9fc66.png",
     "static/media/nask2.2daaa54f.png": "/Arabic-Font-Detector-Website/static/media/nask2.2daaa54f.png",
     "static/media/nask3.15cdabc3.png": "/Arabic-Font-Detector-Website/static/media/nask3.15cdabc3.png",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a51c13bb.js",
-    "static/js/2.6d0e2091.chunk.js",
-    "static/css/main.0e0b3f96.chunk.css",
-    "static/js/main.e83f1c26.chunk.js"
+    "static/js/2.96a23b70.chunk.js",
+    "static/css/main.5965d928.chunk.css",
+    "static/js/main.60bc2684.chunk.js"
   ]
 }
