@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.8f13cea1.chunk.css",
-    "main.js": "/static/js/main.5c6d5c79.chunk.js",
-    "main.js.map": "/static/js/main.5c6d5c79.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e1b81ec0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e1b81ec0.js.map",
-    "static/js/2.2ac0cc79.chunk.js": "/static/js/2.2ac0cc79.chunk.js",
-    "static/js/2.2ac0cc79.chunk.js.map": "/static/js/2.2ac0cc79.chunk.js.map",
+    "main.css": "/static/css/main.c7bca417.chunk.css",
+    "main.js": "/static/js/main.6620ee4a.chunk.js",
+    "main.js.map": "/static/js/main.6620ee4a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c0ba03f3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c0ba03f3.js.map",
+    "static/js/2.96a23b70.chunk.js": "/static/js/2.96a23b70.chunk.js",
+    "static/js/2.96a23b70.chunk.js.map": "/static/js/2.96a23b70.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.8f13cea1.chunk.css.map": "/static/css/main.8f13cea1.chunk.css.map",
-    "static/js/2.2ac0cc79.chunk.js.LICENSE.txt": "/static/js/2.2ac0cc79.chunk.js.LICENSE.txt",
+    "static/css/main.c7bca417.chunk.css.map": "/static/css/main.c7bca417.chunk.css.map",
+    "static/js/2.96a23b70.chunk.js.LICENSE.txt": "/static/js/2.96a23b70.chunk.js.LICENSE.txt",
     "static/media/nask.4cb9fc66.png": "/static/media/nask.4cb9fc66.png",
+    "static/media/nask2.2daaa54f.png": "/static/media/nask2.2daaa54f.png",
     "static/media/nask3.15cdabc3.png": "/static/media/nask3.15cdabc3.png",
-    "static/media/results.7455923b.png": "/static/media/results.7455923b.png",
+    "static/media/results.184f1e60.png": "/static/media/results.184f1e60.png",
     "static/media/ruqa.f34d6854.png": "/static/media/ruqa.f34d6854.png",
     "static/media/ruqa2.f03a3c22.png": "/static/media/ruqa2.f03a3c22.png",
-    "static/media/ruqa3.090df105.jpg": "/static/media/ruqa3.090df105.jpg"
+    "static/media/ruqa3.090df105.jpg": "/static/media/ruqa3.090df105.jpg",
+    "static/media/test.8c0a4671.png": "/static/media/test.8c0a4671.png",
+    "static/media/train.031989d0.png": "/static/media/train.031989d0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e1b81ec0.js",
-    "static/js/2.2ac0cc79.chunk.js",
-    "static/css/main.8f13cea1.chunk.css",
-    "static/js/main.5c6d5c79.chunk.js"
+    "static/js/runtime-main.c0ba03f3.js",
+    "static/js/2.96a23b70.chunk.js",
+    "static/css/main.c7bca417.chunk.css",
+    "static/js/main.6620ee4a.chunk.js"
   ]
 }
