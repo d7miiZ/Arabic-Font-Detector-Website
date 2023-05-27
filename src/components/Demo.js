@@ -110,7 +110,7 @@ export const Demo = () => {
       let formData = new FormData();
       formData.append("image", file);
 
-      fetch("/api/calbot/predict", {
+      fetch("https://calbot-backend.onrender.com/api/calbot/predict", {
         method: "POST",
         body: formData,
       })
@@ -128,7 +128,7 @@ export const Demo = () => {
     let formData = new FormData();
     formData.append("image", UploadedImage);
 
-    fetch("https://arabic-caligraphy-classifier.herokuapp.com/api/calbot/predict", {
+    fetch("https://calbot-backend.onrender.com/api/calbot/predict", {
       method: "POST",
       body: formData,
     })
